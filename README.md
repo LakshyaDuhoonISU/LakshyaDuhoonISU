@@ -1,35 +1,54 @@
-# 💫 About Me:
-👋 Hi, I’m @LakshyaDuhoonISU<br>👀 I’m interested in AI and new emerging technologies<br>🌱 I’m currently learning Python, C++, and other programming languages
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+GitHub!;+My+name+is+Lakshya+Duhoon;" />
+</h1>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lakshya_duhoon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshya-duhoon-3144b3283) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@2023.lakshyad) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Lakshya-Duhoon) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/LakshyaD69) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/lakshya723) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/LakshyaDuhoon) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@lakshyaduhoon) 
+<h1 align="center">Hi 👋, I'm Lakshya Duhoon</h1>
+<h3 align="center">A Passionate Computer Science Student and a coding enthusiast</h3>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LakshyaDuhoonISU&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LakshyaDuhoonISU&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LakshyaDuhoonISU&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshyaduhoonisu&label=Profile%20views&color=0e75b6&style=flat" alt="lakshyaduhoonisu" /> </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LakshyaDuhoonISU&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="left"> <a href="https://twitter.com/lakshyaduhoon" target="blank"><img src="https://img.shields.io/twitter/follow/lakshyaduhoon?logo=twitter&style=for-the-badge" alt="lakshyaduhoon" /></a> </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LakshyaDuhoonISU&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 🔭 I am passionate about **AI/ML, learning new technologies**
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+- 🌱 I’m currently learning **Python and various programming languages**
 
----
-[![](https://visitcount.itsvg.in/api?id=LakshyaDuhoonISU&icon=0&color=0)](https://visitcount.itsvg.in)
+- 👨‍💻 I am [a first year B.Tech student](a first year B.Tech student)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=2023.lakshyad@isu.ac.in" target="_blank">
+    <img align="center" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="gmail logo"  />
+</a>
+<a href="https://twitter.com/lakshyaduhoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lakshyaduhoon" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lakshya-duhoon-3144b3283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshya-duhoon-3144b3283" height="30" width="40" /></a>
+<a href="https://instagram.com/lakshya_duhoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lakshya_duhoon" height="30" width="40" /></a>
+<a href="https://medium.com/@2023.lakshyad" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" alt="@2023.lakshyad" height="80" width="80" /></a>
+<a href="https://www.hackerrank.com/2023_lakshyad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="2023_lakshyad" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@2023.lakshyad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@2023.lakshyad" height="30" width="40" /></a>
+</p>
 
-<!---
-LakshyaDuhoonISU/LakshyaDuhoonISU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+
+<img src="https://skillicons.dev/icons?i=github,vscode&theme=dark" />
+</p>
+<!-- <div align="center">
+  <h2> My Contributions </h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Jeevan-04/Jeevan-04/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div> -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshyaduhoonisu&show_icons=true&locale=en&layout=compact" alt="lakshyaduhoonisu" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshyaduhoonisu&show_icons=true&locale=en" alt="lakshyaduhoonisu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshyaduhoonisu&" alt="lakshyaduhoonisu" /></p>
+
