@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Python and various programming languages**
 
-- 👨‍💻 I am [a first year B.Tech student](a first year B.Tech student)
+- 👨‍💻 I am **a first year B.Tech student**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
