@@ -43,10 +43,11 @@
   <br/><br/><br/>
 </div> -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<h3 align="center">My Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshyaduhoonisu&show_icons=true&locale=en&layout=compact" alt="lakshyaduhoonisu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshyaduhoonisu&show_icons=true&locale=en" alt="lakshyaduhoonisu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshyaduhoonisu&" alt="lakshyaduhoonisu" /></p>
-
+<div align="center">
+  <h2>My Stats</h2>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LakshyaDuhoonISU&theme=transparent" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LakshyaDuhoonISU&theme=solarized" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LakshyaDuhoonISU&theme=transparent" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LakshyaDuhoonISU&theme=transparent" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LakshyaDuhoonISU&theme=solarized&utcOffset=5.3" />
+</div>
