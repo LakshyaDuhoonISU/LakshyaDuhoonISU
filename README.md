@@ -45,6 +45,9 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div align="center">
   <h2>My Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=husainhakim&layout=compact" />
+</div>
+<div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LakshyaDuhoonISU&theme=transparent" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LakshyaDuhoonISU&theme=solarized" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LakshyaDuhoonISU&theme=transparent" />
