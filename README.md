@@ -45,7 +45,7 @@
   <br/><br/><br/>
 </div> -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
+<h3 align="center">My Stats:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshyaduhoonisu&show_icons=true&locale=en&layout=compact" alt="lakshyaduhoonisu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshyaduhoonisu&show_icons=true&locale=en" alt="lakshyaduhoonisu" /></p>
