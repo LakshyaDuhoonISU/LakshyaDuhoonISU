@@ -8,8 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshyaduhoonisu&label=Profile%20views&color=0e75b6&style=flat" alt="lakshyaduhoonisu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/lakshyaduhoon" target="blank"><img src="https://img.shields.io/twitter/follow/lakshyaduhoon?logo=twitter&style=for-the-badge" alt="lakshyaduhoon" /></a> </p>
-
 </div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
