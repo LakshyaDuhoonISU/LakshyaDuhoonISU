@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+GitHub!;+My+name+is+Lakshya+Duhoon;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Welcome+to+my+GitHub!;" />
 </h1>
 
 
@@ -11,7 +11,7 @@
 </div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-- 🔭 I am passionate about **AI/ML, learning new technologies**
+- 🔭 I am passionate about **AI/ML and learning new technologies**
 
 - 🌱 I’m currently learning **Python and various programming languages**
 
@@ -27,7 +27,7 @@
 <a href="https://instagram.com/lakshya_duhoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lakshya_duhoon" height="30" width="40" /></a>
 <a href="https://medium.com/@2023.lakshyad" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" alt="@2023.lakshyad" height="80" width="80" /></a>
 <a href="https://www.hackerrank.com/2023_lakshyad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="2023_lakshyad" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@2023.lakshyad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@2023.lakshyad" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@2023.lakshyad" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="@2023.lakshyad" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
