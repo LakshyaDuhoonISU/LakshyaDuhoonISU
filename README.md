@@ -54,3 +54,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LakshyaDuhoonISU&theme=transparent" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LakshyaDuhoonISU&theme=solarized&utcOffset=5.3" />
 </div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
