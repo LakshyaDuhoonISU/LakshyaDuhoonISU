@@ -45,7 +45,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div align="center">
   <h2>📈My Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=husainhakim&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshyaDuhoonISU&layout=compact" />
 </div>
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LakshyaDuhoonISU&theme=transparent" />
