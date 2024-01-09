@@ -41,9 +41,9 @@
 <img src="https://skillicons.dev/icons?i=github,vscode&theme=dark" />
 </p>
 </div>
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div align="center">
-  <h2> My Contributions </h2>
+  <h2>💪My Contributions</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/LakshyaDuhoonISU/LakshyaDuhoonISU/output/github-contribution-grid-snake.svg" />
   
