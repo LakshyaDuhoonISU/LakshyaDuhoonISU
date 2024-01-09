@@ -35,13 +35,14 @@
 
 <img src="https://skillicons.dev/icons?i=github,vscode&theme=dark" />
 </p>
-<!-- <div align="center">
+
+<div align="center">
   <h2> My Contributions </h2>
   <br>
-  <img src="https://raw.githubusercontent.com/LakshyaDuhoonISU/LakshyaDuhoonISU/output/snake.svg" alt="Snake animation" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/LakshyaDuhoonISU/LakshyaDuhoonISU/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
-</div> -->
+
+</div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div align="center">
   <h2>📈My Stats</h2>
