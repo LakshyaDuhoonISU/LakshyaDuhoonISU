@@ -10,7 +10,7 @@
 
 </div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="coding gif" height="60%" width="55%" align="right">
+<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="coding gif" height="45%" width="45%" align="right">
 - 🔭 I am passionate about **AI/ML and learning new technologies**
 
 - 🌱 I’m currently learning **Python and various programming languages**
