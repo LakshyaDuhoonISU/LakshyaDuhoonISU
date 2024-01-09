@@ -9,14 +9,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshyaduhoonisu&label=Profile%20views&color=0e75b6&style=flat" alt="lakshyaduhoonisu" /> </p>
 
 </div>
+<div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="coding gif" height="45%" width="45%" align="right">
-🔭 I am passionate about **AI/ML and learning new technologies**
+<p>🔭 I am passionate about AI/ML and learning new technologies</p>
 
-🌱 I’m currently learning **Python and various programming languages**
+<p>🌱 I’m currently learning Python and various programming languages</p>
 
-👨‍💻 I am **a first year B.Tech student**
+<p>👨‍💻 I am a first year B.Tech student</p>
 
+<p>😎 Student Ambassador at LetsUpgrade</p>
 <h3 align="center">📱Connect with me:</h3>
 <p align="center">
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=2023.lakshyad@isu.ac.in" target="_blank">
@@ -35,7 +37,7 @@
 
 <img src="https://skillicons.dev/icons?i=github,vscode&theme=dark" />
 </p>
-
+</div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div align="center">
