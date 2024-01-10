@@ -64,11 +64,12 @@
     <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
     <h2>🤖 My Projects</h2>
     <p>1.Student Gradebook</p>
-    <p>An app for teachers to manage student grades by creation of report cards and creation of PTM meetings and messaging parents regarding their wards' details.</p>
-    <p>Sends an email for PTM meetings and report cards to the respective parents and sends email for holiday notifications to parents and children.</p>
-    <p>A calendar of holidays is also available for everyone to see and only class teacher can edit the calendar. </p>
-    <p>Parents can see report cards of their child and PTM meetings scheduled.</p>
-    <p>Students can see their report cards and see PTM meetings which are scheduled.</p>
+    <p>•An app for teachers to manage student grades by creation of report cards and creation of PTM meetings and messaging parents regarding their wards' details.</p>
+    <p>•Sends an email for PTM meetings and report cards to the respective parents and sends email for holiday notifications to parents and children.</p>
+    <p>•A calendar of holidays is also available for everyone to see and only class teacher can edit the calendar. </p>
+    <p>•Parents can see report cards of their child and PTM meetings scheduled.</p>
+    <p>•Students can see their report cards and see PTM meetings which are scheduled.</p>
+    <p>•Appsheet link- <a href="https://www.appsheet.com/start/68d6c6c1-9ae7-4db1-9d5c-88a21f591fb0" target="_blank">Student Gradebook</a></p>
 </p>
 <p>
     <div align="center">
