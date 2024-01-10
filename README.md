@@ -50,15 +50,26 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div align="center">
   <h2>📈My Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshyaDuhoonISU&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshyaDuhoonISU&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" />
 </div>
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LakshyaDuhoonISU&theme=transparent" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LakshyaDuhoonISU&theme=solarized" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LakshyaDuhoonISU&theme=transparent" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LakshyaDuhoonISU&theme=transparent" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LakshyaDuhoonISU&theme=solarized&utcOffset=5.3" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LakshyaDuhoonISU&theme=aura" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LakshyaDuhoonISU&theme=aura" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LakshyaDuhoonISU&theme=aura" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LakshyaDuhoonISU&theme=aura" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LakshyaDuhoonISU&theme=aura&utcOffset=5.3" />
 </div>
+<p>
+    <div align="center">
+    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+    <h2>🤖 My Projects</h2>
+    <p>1.Student Gradebook</p>
+    <p>An app for teachers to manage student grades by creation of report cards and creation of PTM meetings and messaging parents regarding their wards' details.</p>
+    <p>Sends an email for PTM meetings and report cards to the respective parents and sends email for holiday notifications to parents and children.</p>
+    <p>A calendar of holidays is also available for everyone to see and only class teacher can edit the calendar. </p>
+    <p>Parents can see report cards of their child and PTM meetings scheduled.</p>
+    <p>Students can see their report cards and see PTM meetings which are scheduled.</p>
+</p>
 <p>
     <div align="center">
     <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
