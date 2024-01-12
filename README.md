@@ -72,9 +72,6 @@
     <p>•Appsheet link- <a href="https://www.appsheet.com/start/68d6c6c1-9ae7-4db1-9d5c-88a21f591fb0" target="_blank">Student Gradebook</a></p>
 </p>
 <p>
-    <a href="https://www.hackerrank.com/2023_lakshyad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="2023_lakshyad" height="30" width="40" /></a>
-    <div align="center">
-    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
     <h2>✍️ Random Dev Quote</h2>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/></p></div>
 <p>
