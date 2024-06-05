@@ -13,7 +13,7 @@
 <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="coding gif" height="45%" width="45%" align="right">
 <p>🔭 I am passionate about AI/ML and learning new technologies</p>
 
-<p>🌱 I’m currently learning Python and various programming languages</p>
+<p>🌱 I’m currently learning React and other front-end related languages</p>
 
 <p>👨‍💻 I am a first year B.Tech student</p>
 
