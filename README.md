@@ -15,7 +15,7 @@
 
 <p>🌱 I’m currently learning React and other front-end related languages</p>
 
-<p>👨‍💻 I am a first year B.Tech student</p>
+<p>👨‍💻 I am a B.Tech CSE student</p>
 
 <p>😎 Student Ambassador at LetsUpgrade</p>
 <h3 align="center">📱Connect with me:</h3>
