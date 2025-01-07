@@ -13,7 +13,7 @@
 <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="coding gif" height="45%" width="45%" align="right">
 <p>🔭 I am passionate about AI/ML and learning new technologies</p>
 
-<p>🌱 I’m currently learning NoSQL, MongoDB, and Firebase</p>
+<p>🌱 I’m currently learning Cloud Computing, DSA, and System Design</p>
 
 <p>👨‍💻 I am a B.Tech CSE student</p>
 
