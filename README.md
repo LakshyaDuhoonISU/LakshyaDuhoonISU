@@ -43,6 +43,13 @@
 <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/javascript-3.png" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="50" height="40"/>
 <img src="https://static-00.iconduck.com/assets.00/figma-icon-1366x2048-tdlpz5c4.png" width="30" height="40"/>
+<img src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png" width="50" height="40"/>
+<img src="https://www.citypng.com/public/uploads/preview/hd-java-logo-transparent-background-701751694771845zainlxmlfo.png" width="50" height="40"/>
+<img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" width="50" height="40"/>
+<img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" width="50" height="40"/>
+<img src="https://kinsta.com/wp-content/uploads/2022/04/express-1.png" width="50" height="40"/>
+<img src="https://i.pinimg.com/736x/66/ec/d4/66ecd45c7b6a7a76cd3c2c1e16b14ea0.jpg" width="50" height="40"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdmDoZvgvA-kXiVr7N_cooRQtC3lu26iFTQ&s" width="50" height="40"/>
 </p>
 </div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
