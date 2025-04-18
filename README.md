@@ -50,6 +50,9 @@
 <img src="https://kinsta.com/wp-content/uploads/2022/04/express-1.png" width="50" height="40"/>
 <img src="https://i.pinimg.com/736x/66/ec/d4/66ecd45c7b6a7a76cd3c2c1e16b14ea0.jpg" width="50" height="40"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdmDoZvgvA-kXiVr7N_cooRQtC3lu26iFTQ&s" width="50" height="40"/>
+<img src="https://logowik.com/content/uploads/images/aws-amazon-web-services.jpg" width="50" height="40"/>
+<img src="https://www.docker.com/app/uploads/2023/08/logo-guide-logos-1.svg" width="50" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/2048px-Diagrams.net_Logo.svg.png" width="50" height="40"/>
 </p>
 </div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
