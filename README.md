@@ -17,7 +17,6 @@
 
 <p>👨‍💻 I am a B.Tech CSE student</p>
 
-<p>😎 Student Ambassador at LetsUpgrade</p>
 <h3 align="center">📱Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/lakshya-duhoon-3144b3283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshya-duhoon-3144b3283" height="30" width="40" /></a>
