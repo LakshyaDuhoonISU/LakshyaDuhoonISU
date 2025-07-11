@@ -10,7 +10,6 @@
 </div>
 <div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="coding gif" height="45%" width="45%" align="right">
 <p>🔭 I am passionate about AI/ML and learning new technologies</p>
 
 <p>🌱 I’m currently learning IoT</p>
