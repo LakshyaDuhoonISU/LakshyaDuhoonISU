@@ -18,7 +18,7 @@
 
 <h3 align="center">📱Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/lakshya-duhoon-3144b3283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshya-duhoon-3144b3283" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lakshyad723" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshya-duhoon-3144b3283" height="30" width="40" /></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=2023.lakshyad@isu.ac.in" target="_blank">
     <img align="center" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="gmail logo"  />
 </a>
