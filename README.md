@@ -12,7 +12,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <p>🔭 I am passionate about AI/ML and learning new technologies</p>
 
-<p>🌱 I’m currently learning Flutter</p>
+<p>🌱 I’m currently learning Cybersecurity</p>
 
 <p>👨‍💻 I am a B.Tech CSE student</p>
 
