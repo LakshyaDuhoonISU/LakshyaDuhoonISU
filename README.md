@@ -10,7 +10,7 @@
 </div>
 <div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<p>🔭 I am passionate about AI/ML and learning new technologies</p>
+<p>🔭 I am passionate about AI/ML, Cybersecurity, and learning new technologies</p>
 
 <p>🌱 I’m currently learning Cybersecurity</p>
 
