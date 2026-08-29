@@ -1,84 +1,284 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Welcome+to+my+GitHub!;" />
-</h1>
+<h1 align="center">👋 Hi, I'm Lakshya Duhoon</h1>
 
-<h1 align="center">Hi, I'm Lakshya Duhoon</h1>
-<h3 align="center">A Passionate Computer Science Student and a coding enthusiast</h3>
+<h3 align="center">
+  Computer Science Student • Software Development • Cybersecurity • AI & Data
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshyaduhoonisu&label=Profile%20views&color=0e75b6&style=flat" alt="lakshyaduhoonisu" /> </p>
-
-</div>
-<div>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<p>🔭 I am passionate about AI/ML, Data Science, Cybersecurity, and learning new technologies</p>
-
-<p>🌱 I’m currently learning Cybersecurity</p>
-
-<p>👨‍💻 I am a B.Tech CSE student</p>
-
-<h3 align="center">📱Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/lakshyad723" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshya-duhoon-3144b3283" height="30" width="40" /></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=2023.lakshyad@isu.ac.in" target="_blank">
-    <img align="center" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="gmail logo"  />
-</a>
-<a href="https://twitter.com/lakshyaduhoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lakshyaduhoon" height="30" width="40" /></a>
-<a href="https://instagram.com/lakshya_duhoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lakshya_duhoon" height="30" width="40" /></a>
-<a href="https://medium.com/@2023.lakshyad" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" alt="@2023.lakshyad" height="80" width="80" /></a>
-<a href="https://www.hackerrank.com/2023_lakshyad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="2023_lakshyad" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/lakshya311/" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="@2023.lakshyad" height="40" width="40" /></a>
+  <a href="https://lakshya-portfolio-plum.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/lakshyad723">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/lakshya311/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.hackerrank.com/2023_lakshyad">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
+  </a>
+  <a href="mailto:[2023.lakshyad@isu.ac.in](mailto:2023.lakshyad@isu.ac.in)">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-<h3 align="center">🧑🏻‍💻Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<img src="https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_300,h_300/https://fullsteam.mit.edu/wp-content/uploads/2020/03/ScratchLogo-300x300.png" alt="icon" width="40" height="40" />
-<img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50">
-<img src="https://media.licdn.com/dms/image/D5612AQGny7xsSSLQ-A/article-cover_image-shrink_600_2000/0/1699480666080?e=2147483647&v=beta&t=3jmL98hJa2MwOmEPsQZ9t3zAH3CjBLEIL-ugNdJ31tY" width="40" height="40">
-<img src="https://img.shields.io/badge/wix-0078d7.svg?style=for-the-badge&logo=&logoColor=black" width="50" height="50" theme="dark">
-<img src="https://skillicons.dev/icons?i=github,vscode&theme=dark" />
-<img src="https://e7.pngegg.com/pngimages/780/934/png-clipart-html-logo-html5-logo-icons-logos-emojis-tech-companies-thumbnail.png" width="30" height="40"/>
-<img src="https://e7.pngegg.com/pngimages/66/60/png-clipart-web-development-cascading-style-sheets-css3-computer-icons-css-miscellaneous-blue-thumbnail.png" width="30" height="40" />
-<img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/javascript-3.png" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="50" height="40"/>
-<img src="https://static-00.iconduck.com/assets.00/figma-icon-1366x2048-tdlpz5c4.png" width="30" height="40"/>
-<img src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png" width="50" height="40"/>
-<img src="https://www.citypng.com/public/uploads/preview/hd-java-logo-transparent-background-701751694771845zainlxmlfo.png" width="50" height="40"/>
-<img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" width="50" height="40"/>
-<img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" width="50" height="40"/>
-<img src="https://kinsta.com/wp-content/uploads/2022/04/express-1.png" width="50" height="40"/>
-<img src="https://i.pinimg.com/736x/66/ec/d4/66ecd45c7b6a7a76cd3c2c1e16b14ea0.jpg" width="50" height="40"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdmDoZvgvA-kXiVr7N_cooRQtC3lu26iFTQ&s" width="50" height="40"/>
-<img src="https://logowik.com/content/uploads/images/aws-amazon-web-services.jpg" width="50" height="40"/>
-<img src="https://www.docker.com/app/uploads/2023/08/logo-guide-logos-1.svg" width="50" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/2048px-Diagrams.net_Logo.svg.png" width="50" height="40"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LakshyaDuhoonISU&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
-</div>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<div align="center">
-  <h2>💪My Contributions</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/LakshyaDuhoonISU/LakshyaDuhoonISU/output/github-contribution-grid-snake.svg" />
-</div>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<div align="center">
-  <h2>📈My Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshyaDuhoonISU&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" />
-</div>
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LakshyaDuhoonISU&theme=aura" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LakshyaDuhoonISU&theme=aura" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LakshyaDuhoonISU&theme=aura" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LakshyaDuhoonISU&theme=aura" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LakshyaDuhoonISU&theme=aura&utcOffset=5.3" />
-</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **B.Tech Computer Science & Engineering student** interested in building practical software, data-driven applications, and security-focused solutions.
+
+I enjoy working across the stack — from **backend APIs and databases** to **frontend applications, AI-powered features, automation, and cybersecurity**.
+
+* 🔭 Building full-stack, AI-powered and security-focused projects
+* 🔐 Deepening my knowledge of **Cybersecurity, Networking & System Security**
+* 💻 Interested in **Software Development, Backend Engineering, AI/ML & Cybersecurity**
+* 🧩 Practicing **Data Structures & Algorithms**
+* 🚀 Building projects that solve real-world problems
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">📊 Customer Onboarding Intelligence Platform</h3>
+
 <p>
-    <div align="center">
+A full-stack analytics platform designed to understand and improve customer onboarding funnels using analytics, machine learning and AI.
 </p>
+
+<ul>
+<li>Built onboarding funnel and cohort analysis dashboards</li>
+<li>Implemented user journey analysis and drop-off identification</li>
+<li>Added AI-powered root cause analysis and recommendations</li>
+<li>Implemented machine learning-based drop-off prediction</li>
+<li>Added authentication and multi-project support</li>
+<li>Built CSV-based data ingestion workflows</li>
+</ul>
+
 <p>
-    <h2>✍️ Random Dev Quote</h2>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/></p></div>
-<!-- <p>
-    <div align="center">
-    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-    <h2> 😂 Random Dev Meme</h2>
-    <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/></p></div> -->
+<b>Tech:</b><br>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/ML-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/LakshyaDuhoonISU/Onboarding_Intelligence_Platform">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">📡 API Observability Platform</h3>
+
+<p>
+An API monitoring and observability platform designed to provide visibility into API performance, reliability and failures.
+</p>
+
+<ul>
+<li>Built an API monitoring and analytics dashboard</li>
+<li>Tracked request volume and response times</li>
+<li>Monitored error rates and API health</li>
+<li>Implemented backend services for API metrics</li>
+<li>Designed visual analytics for identifying performance issues</li>
+<li>Focused on simplifying API debugging and monitoring</li>
+</ul>
+
+<p>
+<b>Tech:</b><br>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Recharts-FF6384?style=flat-square"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/LakshyaDuhoonISU/API_Observability_Platform">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🤖 AI Business Analyst</h3>
+
+<p>
+An AI-powered analytics application that allows users to upload business datasets and ask questions about their data using natural language.
+</p>
+
+<ul>
+<li>Built an interface for uploading business datasets</li>
+<li>Designed AI workflows for business analysis</li>
+<li>Generates insights about sales and product performance</li>
+<li>Converts raw tabular data into actionable explanations</li>
+<li>Designed for natural-language business queries</li>
+</ul>
+
+<p>
+<b>Tech:</b><br>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%2FLLM-8E75B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/LakshyaDuhoonISU/AIBusinessAnalyst">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🛡️ AI SOC Platform</h3>
+
+<p>
+An AI-powered security operations platform for monitoring, analysing and responding to cybersecurity events.
+</p>
+
+<ul>
+<li>Built a security operations dashboard</li>
+<li>Designed security alert and incident monitoring workflows</li>
+<li>Added AI-assisted security event analysis</li>
+<li>Designed workflows for investigating suspicious activity</li>
+<li>Focused on threat visibility and alert prioritisation</li>
+<li>Applied security monitoring and incident response concepts</li>
+</ul>
+
+<p>
+<b>Tech:</b><br>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%2FLLM-8E75B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cybersecurity-111111?style=flat-square&logo=hackthebox&logoColor=9FEF00"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/LakshyaDuhoonISU/AI_SOC_Platform">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Skills & Technologies
+
+## 💻 Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
+## 🌐 Software Development
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square"/>
+</p>
+
+## 🤖 AI / Data
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+</p>
+
+## 🔐 Cybersecurity & Networking
+
+<p>
+<img src="https://img.shields.io/badge/Cybersecurity-111111?style=flat-square&logo=hackthebox&logoColor=9FEF00"/>
+<img src="https://img.shields.io/badge/Networking-1F6FEB?style=flat-square&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+</p>
+
+## ⚙️ Testing & DevOps
+
+<p>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</p>
+
+---
+
+# 🎓 Education
+
+### B.Tech — Computer Science & Engineering
+
+**ITM Skills University** · Expected 2027
+
+**Specialization:** Cybersecurity
+
+---
+
+# 📚 Currently Learning
+
+* 🔐 Cybersecurity, Network Security & System Security
+* 🌐 Networking fundamentals
+* 🐧 Linux and security tooling
+* 🤖 AI/ML and applied LLM systems
+* 🏗️ Backend & full-stack application development
+* 🧩 Data Structures & Algorithms
+* ⚙️ Software Testing, CI/CD & DevOps
+
+---
+
+# 🐍 Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LakshyaDuhoonISU/LakshyaDuhoonISU/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+<p align="center">
+  <b>💡 Build. Learn. Secure. Repeat.</b>
+</p>
