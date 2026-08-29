@@ -42,6 +42,26 @@ I enjoy working across the stack — from **backend APIs and databases** to **fr
 
 ---
 
+# 💼 Work Experience
+
+## Colt Technology Services | AI & Data Analysis Intern
+
+**June 2025 – September 2025**
+
+* Conducted manual and regression testing across **20+ test cases** for a sales capacity check website, documenting **50+ defects** in Excel and collaborating with cross-functional teams throughout Agile development cycles.
+* Designed a network visualization tool using **CytoscapeJS, Django, and Oracle DB**, implementing **500+ endpoints**, role-based access, graph filtering, and node-editing capabilities to improve network analysis and management.
+* Built **2 AI-powered applications** for audio translation and call summarization using **OpenAI Whisper, Helsinki-NLP, and BART**, developing interactive **Gradio** interfaces and processing **100+ call samples** for automated speech translation and summarization.
+
+## Network 18 Media and Investments Limited | Strategy & Research Analysis Intern
+
+**June 2024 – November 2024**
+
+* Designed a responsive, interactive translation application using Python, improving accessibility and user experience by **10%** and contributing to increased user engagement.
+* Spearheaded cross-functional collaboration across a **5-member team**, ensuring seamless integration and **100% on-time delivery** of high-quality application projects.
+* Optimized application design and functionality, resulting in a **10% increase** in user engagement and a smoother overall user journey.
+
+---
+
 # 🚀 Featured Projects
 
 <table>
@@ -51,7 +71,7 @@ I enjoy working across the stack — from **backend APIs and databases** to **fr
 <h3 align="center">📊 Customer Onboarding Intelligence Platform</h3>
 
 <p>
-A full-stack analytics platform designed to understand and improve customer onboarding funnels using analytics, machine learning and AI.
+A full-stack analytics platform designed to understand and improve customer onboarding funnels using analytics, machine learning, and AI.
 </p>
 
 <ul>
@@ -87,7 +107,7 @@ A full-stack analytics platform designed to understand and improve customer onbo
 <h3 align="center">📡 API Observability Platform</h3>
 
 <p>
-An API monitoring and observability platform designed to provide visibility into API performance, reliability and failures.
+An API monitoring and observability platform designed to provide visibility into API performance, reliability, and failures.
 </p>
 
 <ul>
@@ -158,7 +178,7 @@ An AI-powered analytics application that allows users to upload business dataset
 <h3 align="center">🛡️ AI SOC Platform</h3>
 
 <p>
-An AI-powered security operations platform for monitoring, analysing and responding to cybersecurity events.
+An AI-powered security operations platform for monitoring, analysing, and responding to cybersecurity events.
 </p>
 
 <ul>
