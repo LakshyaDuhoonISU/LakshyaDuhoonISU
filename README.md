@@ -49,7 +49,7 @@ I enjoy working across the stack — from **backend APIs and databases** to **fr
 **June 2025 – September 2025**
 
 * Conducted manual and regression testing across **20+ test cases** for a sales capacity check website, documenting **50+ defects** in Excel and collaborating with cross-functional teams throughout Agile development cycles.
-* Designed a network visualization tool using **CytoscapeJS, Django, and Oracle DB**, implementing **500+ endpoints**, role-based access, graph filtering, and node-editing capabilities to improve network analysis and management.
+* Designed a network visualization tool using **CytoscapeJS, Django, and Oracle DB**, implementing **10+ endpoints**, role-based access, graph filtering, and node-editing capabilities to improve network analysis and management.
 * Built **2 AI-powered applications** for audio translation and call summarization using **OpenAI Whisper, Helsinki-NLP, and BART**, developing interactive **Gradio** interfaces and processing **100+ call samples** for automated speech translation and summarization.
 
 ## Network 18 Media and Investments Limited | Strategy & Research Analysis Intern
