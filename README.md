@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://lakshya-portfolio-plum.vercel.app/">
+  <a href="https://lakshya-duhoon.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/lakshyad723">
